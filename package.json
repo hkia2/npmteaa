@@ -1,0 +1,25 @@
+{
+  "name": "npmteaa",
+  "version": "1.1.4",
+  "description": "project development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hkia2/npmteaa.git"
+  },
+  "keywords": [
+    "npmtea"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hkia2/npmteaa/issues"
+  },
+  "homepage": "https://github.com/hkia2/npmteaa#readme",
+  "dependencies": {
+    "alfacode": "^1.1.2"
+  }
+}
